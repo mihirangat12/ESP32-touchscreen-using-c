@@ -1,0 +1,9 @@
+{'Action':'Trim'}
+{'Action':'Footlift'}
+{'Deferential':"+String(value)+"}
+
+
+{'Page':'Loading'}
+{'Page':'Settings'}
+{'Page':'Manual'}
+{'Page':'Auto'}

@@ -1,0 +1,144 @@
+{
+    "STYLES": {
+        "test": {
+            "StyleName": "test",
+            "BtnId": 8,
+            "StartParams": {
+                "BeltLoadingSpeed": 16000,
+                "BothBeltSyncRatio": 0.4065,
+                "CondensedStitchStart": 17,
+                "StartAirBlowStitch": 20,
+                "StartCutterStitch": 31,
+                "StartChopperStitch": 28,
+                "BeltTakeUpSpeed": 0
+            },
+            "SewingParams": {
+                "BeltSewingSpeed": 16000,
+                "LowerBeltStep": 806,
+                "UpperBeltStep": 0,
+                "SewingSpeedCondensed": 75,
+                "SewingSpeedChain": 70,
+                "StepMode": false
+            },
+            "EndParams": {
+                "EndCutterSuction": 28,
+                "EndCutterStitch": 47,
+                "StopCondensedStitch": 20,
+                "EncoderPosition": "0"
+            },
+            "OptParams": {
+                "FabricIM": "6851197",
+                "StyleNo": "3XL",
+                "SPI": 13,
+                "HemWidth": 2,
+                "MechanicName": "pasindu"
+            }
+        },
+        "test_v2": {
+            "StyleName": "test_v2",
+            "BtnId": 8,
+            "StartParams": {
+                "BeltLoadingSpeed": 16000,
+                "BothBeltSyncRatio": 0.4065,
+                "CondensedStitchStart": 19,
+                "StartAirBlowStitch": 25,
+                "StartCutterStitch": 23,
+                "StartChopperStitch": 28,
+                "BeltTakeUpSpeed": 0
+            },
+            "SewingParams": {
+                "BeltSewingSpeed": 16000,
+                "LowerBeltStep": 803,
+                "UpperBeltStep": 0,
+                "SewingSpeedCondensed": 75,
+                "SewingSpeedChain": 65,
+                "StepMode": false
+            },
+            "EndParams": {
+                "EndCutterSuction": 28,
+                "EndCutterStitch": 51,
+                "StopCondensedStitch": 20,
+                "EncoderPosition": "0"
+            },
+            "OptParams": {
+                "FabricIM": "6851197",
+                "StyleNo": "3XL",
+                "SPI": 13,
+                "HemWidth": 2,
+                "MechanicName": "pasindu"
+            }
+        }
+    }
+}
+// {
+//     "STYLES": {
+//         "test": {
+//             "StyleName": "test",
+//             "BtnId": 8,
+//             "StartParams": {
+//                 "BeltLoadingSpeed": 16000,
+//                 "BothBeltSyncRatio": 0.4065,
+//                 "CondensedStitchStart": 17,
+//                 "StartAirBlowStitch": 20,
+//                 "StartCutterStitch": 29,
+//                 "StartChopperStitch": 28,
+//                 "BeltTakeUpSpeed": 0
+//             },
+//             "SewingParams": {
+//                 "BeltSewingSpeed": 16000,
+//                 "LowerBeltStep": 700,
+//                 "UpperBeltStep": 1,
+//                 "SewingSpeedCondensed": 75,
+//                 "SewingSpeedChain": 70,
+//                 "StepMode": false
+//             },
+//             "EndParams": {
+//                 "EndCutterSuction": 28,
+//                 "EndCutterStitch": 54,
+//                 "StopCondensedStitch": 20,
+//                 "EncoderPosition": "0"
+//             },
+//             "OptParams": {
+//                 "FabricIM": "6851197",
+//                 "StyleNo": "3XL",
+//                 "SPI": 13,
+//                 "HemWidth": 2,
+//                 "MechanicName": "pasindu"
+//             }
+//         },
+//         "test_v2": {
+//             "StyleName": "test_v2",
+//             "BtnId": 8,
+//             "StartParams": {
+//                 "BeltLoadingSpeed": 16000,
+//                 "BothBeltSyncRatio": 0.4065,
+//                 "CondensedStitchStart": 19,
+//                 "StartAirBlowStitch": 25,
+//                 "StartCutterStitch": 22,
+//                 "StartChopperStitch": 28,
+//                 "BeltTakeUpSpeed": 0
+//             },
+//             "SewingParams": {
+//                 "BeltSewingSpeed": 16000,
+//                 "LowerBeltStep": 700,
+//                 "UpperBeltStep": 1,
+//                 "SewingSpeedCondensed": 75,
+//                 "SewingSpeedChain": 70,
+//                 "StepMode": false
+//             },
+//             "EndParams": {
+//                 "EndCutterSuction": 28,
+//                 "EndCutterStitch": 54,
+//                 "StopCondensedStitch": 20,
+//                 "EncoderPosition": "0"
+//             },
+//             "OptParams": {
+//                 "FabricIM": "6851197",
+//                 "StyleNo": "3XL",
+//                 "SPI": 13,
+//                 "HemWidth": 2,
+//                 "MechanicName": "pasindu"
+//             }
+//         }
+//     }
+// }
